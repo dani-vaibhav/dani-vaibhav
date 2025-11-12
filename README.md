@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hey, I'm Vaibhav Dani 👋
+---
+### About Me
+I'm a passionate software developer from Pune(Maharashtra), India with a passion for crafting innovative solutions through code. I have over 8 years of Coding experinece in MERN (MongoDB-Express.js-React.js-Node.js)stack. I'm proficient in desigining and implementing scalable logic, dynamic user interfaces and end-to-end solution using the MERN stack. 
 
-<!--
-**dani-vaibhav/dani-vaibhav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### What I’m Up To
+Helping grow open-source projects like Sharethrift
+#### Connect With Me
+**GitHub**: [github.com/dani-vaibhav]
+**LinkedIn**: https://www.linkedin.com/in/danivaibhav
 
-Here are some ideas to get you started:
+Let’s Build Something!
+Always excited to connect, share ideas, or team up on fun projects. Reach out and let’s make something awesome together!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
