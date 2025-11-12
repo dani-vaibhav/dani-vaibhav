@@ -1,5 +1,5 @@
 <h1 align="center">🚀 Hey, I'm <span style="color:#00BFFF;">Vaibhav Dani</span></h1>
-<h3 align="center">💡 Full Stack Engineer | MERN • Python • Go • Rust</h3>
+<h3 align="center">💡 Full Stack Engineer | MERN </h3>
 
 ---
 
